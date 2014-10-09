@@ -1,0 +1,7 @@
+The command you sent is not supported.
+
+Please use any commands from the list, in subject of the mail :
+$commands
+
+Thanks,
+Basavaraj
